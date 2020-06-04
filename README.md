@@ -9,7 +9,7 @@
 This is a list of available fantasy consoles/computers. Including softwares which simulate virtual hardwares, with limited functionality. And always encourage creating and sharing tiny retro games and programs with built-in languages and tools.
 
 FC | Language | Price & License | Platform | Display | First Release
----- | ---- | ---- | ---- | ----
+---- | ---- | ---- | ---- | ---- | ----
 [1Bit-Wonder](https://brastin3.itch.io/1bit-wonder) by Brastin | Instructions | [Free](https://brastin3.itch.io/1bit-wonder) | Windows, Linux | 225x125 | Nov 2017
 [BASIC8](https://paladin-t.github.io/b8/) by Tony Wang | [BASIC](https://paladin-t.github.io/b8/docs/manual) | [$14.99](https://store.steampowered.com/app/767240/) | Windows, macOS, Linux | 160x128 | Jan 2018
 [Bitsy](https://ledoux.itch.io/bitsy) by Adam Le Doux | Instructions | [Free](http://ledoux.io/bitsy/editor.html), [MIT](https://github.com/le-doux/bitsy) | Browser | 16x16 1bit sprites (8x8 per sprite) | Jan 2017
@@ -40,7 +40,7 @@ FC | Language | Price & License | Platform | Display | First Release
 [Pixel Vision 8](https://www.pixelvision8.com/) by Pixel Vision 8 | Lua | [Free (Limited tools), $9.99 (All tools), $1/mo (All versions plus extras)](https://www.pixelvision8.com/fantasy-console-club) | Windows, macOS, Linux | 256x240 | Sep 2016
 [Prism-384](https://grapefruitopia.itch.io/prism-384) by Grapefruitopia Industries | JavaScript | [$5](https://grapefruitopia.itch.io/prism-384) | Windows, macOS, Linux, Raspberry Pi | 384x216 | Mar 2018
 [PuzzleScript](https://www.puzzlescript.net/), [DungeonScript](http://dungeonscript.farbs.org/) by Stephen Lavelle | [Instructions](https://www.puzzlescript.net/Documentation/documentation.html) | [Free](https://www.puzzlescript.net/), [MIT](https://github.com/increpare/PuzzleScript) | Browser | Configurable, (DungeonScript) Voxel | Sep 2013
-[PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | Configurable
+[PX8](https://hallucino.itch.io/px8) by hallucino | Lua, Python | [NYOP](https://hallucino.itch.io/px8), [MIT](https://github.com/Gigoteur/PX8) | Windows, macOS, Linux | Configurable | Jan 2017
 [Pyxel](https://github.com/kitao/pyxel) by Takashi Kitao | Python | [Free](https://github.com/kitao/pyxel/releases), [MIT](https://github.com/kitao/pyxel) | Windows, macOS, Linux | 256x256 | Jan 2017
 [quadplay](https://morgan3d.github.io/quadplay/console/quadplay.html?IDE=1) by Casual Effects | [PyxlScript](https://morgan3d.github.io/quadplay/doc/manual.md.html) | [Free](https://morgan3d.github.io/quadplay/console/quadplay.html?IDE=1), [LGPL3](https://github.com/morgan3d/quadplay/) | Windows, macOS, Linux | 384x224 | Jul 2019
 [Raccoon](https://github.com/Lyatus/raccoon) by Lutopia & Linheha | JavaScript | [Free](https://raccoon.lucien.cat/), [Unlicense](https://github.com/Lyatus/raccoon) | Browser | 128x128 | Jan 2019
